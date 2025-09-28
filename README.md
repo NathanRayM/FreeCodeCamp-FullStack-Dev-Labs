@@ -1,6 +1,6 @@
 # FreeCodeCamp Full Stack Development Labs
 
-(https://github.com/NathanRayM/FreeCodeCamp-FullStack-Dev-Labs/blob/main/fcc-logo.jpg)
+![FreeCodeCamp Banner]([images/fcc-banner.png](https://github.com/NathanRayM/FreeCodeCamp-FullStack-Dev-Labs/blob/main/fcc-logo.jpg))
 
 This repository contains my solutions to various **FreeCodeCamp labs and projects** as I progress through the Full Stack Development curriculum.  
 It’s organized by major sections of the course, with live demos available via **GitHub Pages**.
