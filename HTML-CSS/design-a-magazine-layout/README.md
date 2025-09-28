@@ -1,8 +1,8 @@
-# [Design A Magazine Layout]
+# Design A Magazine Layout
 
 This is my FreeCodeCamp HTML/CSS lab from the fullstack developer course.
 
-**Live Demo:** [View in Browser](https://yourusername.github.io/FCC-projects/HTML-CSS/[Lab-Folder-Name]/index.html)
+**Live Demo:** [View in Browser](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/HTML-CSS/design-a-magazine-layout/)
 
 ## Description
 
