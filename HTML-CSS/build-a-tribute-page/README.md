@@ -1,8 +1,8 @@
-# [Build A Tribute Page]
+# Build A Tribute Page
 
 This is my FreeCodeCamp HTML/CSS lab from the fullstack developer course.
 
-**Live Demo:** [View in Browser](https://yourusername.github.io/FCC-projects/HTML-CSS/[Lab-Folder-Name]/index.html)
+**Live Demo:** [View in Browser]([https://yourusername.github.io/FCC-projects/HTML-CSS/[Lab-Folder-Name]/index.html](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/HTML-CSS/tribute-page/))
 
 ## Description
 
