@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="styles.css" />
+    <title>Engineer Survey From</title>
+  </head>
+  <body>
+    <!--begin survey header-->
+    <header class="survey-header">
+      <h1>Audio Engineer Survey</h1>
+      <hr />
+      <p>A Survey For Aspiring Audio Engineers</p>
+    </header>
+    <!--end survey header-->
+    <!--begin form container-->
+    <div class="form-container">
+      <!--begin form-->
+      <form action="/submit-form" method="post">
+        <!--begin name input-->
+        <div class="name-container">
+          <label for="name">Name:</label><br />
+          <input
+            class="info-input"
+            type="text"
+            id="name"
+            name="name"
+            required
+            placeholder="Enter Your Name"
+          />
+        </div>
+        <!--end name input-->
+        <!--begin phone input-->
+        <div class="phone-container">
+          <label for="phone">Phone Number:</label><br />
+          <input
+            class="info-input"
+            type="tel"
+            id="phone"
+            name="phone"
+            required
+            placeholder="Enter Your Phone Number"
+          />
+        </div>
+        <!--end phone input-->
+        <!--begin email input-->
+        <div class="email-container">
+          <label for="email">Email:</label><br />
+          <input
+            class="info-input"
+            type="email"
+            id="email"
+            name="email"
+            required
+            placeholder="Enter Your email address"
+          />
+        </div>
+        <!--end email input-->
+        <!--start select input-->
+        <div class="dropdown-container">
+          <label class="dropdown-label" for="dropdown"
+            >How would you describe your level of audio engineering or
+            production?</label
+          >
+          <select name="dropdown" id="dropdown">
+            <option></option>
+            <option>Beginner</option>
+            <option>Intermediate</option>
+            <option>Professional</option>
+          </select>
+        </div>
+        <!--end select input-->
+        <!--start radio input-->
+        <div class="radio-container">
+          <p class="radio-title">
+            What is your goal as an Audio Engineer or Producer?
+          </p>
+          <label class="radio-label">
+            <input
+              class="radio-input"
+              type="radio"
+              name="radio"
+              value="fulltime"
+            />
+            To Work Full Time
+          </label>
+          <label class="radio-label">
+            <input
+              class="radio-input"
+              type="radio"
+              name="radio"
+              value="partime"
+            />
+            To Work Part Time
+          </label>
+          <label class="radio-label">
+            <input
+              class="radio-input"
+              type="radio"
+              name="radio"
+              value="hobby"
+            />
+            As a Hobby
+          </label>
+        </div>
+        <!--end radio input-->
+        <!--start checkbox input-->
+        <div class="checkbox-container">
+          <p class="checkbox-title">
+            What is your DAW of choice or favorite DAW's? (Check all that apply)
+          </p>
+          <label class="checkbox-label">
+            <input
+              class="checkbox-input"
+              type="checkbox"
+              name="checkbox"
+              value="protools"
+            />
+            Pro-Tools
+          </label>
+          <label class="checkbox-label">
+            <input
+              class="checkbox-input"
+              type="checkbox"
+              name="checkbox"
+              value="logic"
+            />
+            Logic Pro
+          </label>
+          <label class="checkbox-label">
+            <input
+              class="checkbox-input"
+              type="checkbox"
+              name="checkbox"
+              value="cubase"
+            />
+            Cubase
+          </label>
+          <label class="checkbox-label">
+            <input
+              class="checkbox-input"
+              type="checkbox"
+              name="checkbox"
+              value="studioone"
+            />
+            Studio One
+          </label>
+          <label class="checkbox-label">
+            <input
+              class="checkbox-input"
+              type="checkbox"
+              name="checkbox"
+              value="ableton"
+            />
+            Ableton
+          </label>
+          <label class="checkbox-label">
+            <input
+              class="checkbox-input"
+              type="checkbox"
+              name="checkbox"
+              value="flstudio"
+            />
+            Fl-Studio
+          </label>
+          <label class="checkbox-label">
+            <input
+              class="checkbox-input"
+              type="checkbox"
+              name="checkbox"
+              value="garageband"
+            />
+            Garageband
+          </label>
+        </div>
+        <!--end checkbox input-->
+        <!--start text area input-->
+        <div class="textarea-container">
+          <p class="textarea-title">Any comments or suggestions?</p>
+          <label class="textarea-label">
+            <textarea
+              class="textarea-input"
+              name="textarea"
+              id="textarea"
+            ></textarea>
+          </label>
+        </div>
+        <!--end text area input-->
+        <!--start submit input-->
+        <div class="submit-container">
+          <input
+            class="submit-input"
+            type="submit"
+            value="send"
+            name="submit"
+            id="submit"
+          />
+        </div>
+        <!--end submit input-->
+      </form>
+      <!--end form-->
+    </div>
+    <!--end form container-->
+  </body>
+</html>

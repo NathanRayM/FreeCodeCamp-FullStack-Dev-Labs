@@ -1,0 +1,291 @@
+:root {
+  --color-white: #f3f3f3;
+  --color-lightgray: #b0b0bf;
+  --color-darkgray-alpha: rgba(37, 37, 41, 0.8);
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+  font-family: "Roboto";
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-image: url(images/mixer.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.5;
+  z-index: -1;
+}
+
+.survey-header {
+  margin: 0 auto;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: var(--color-darkgray-alpha);
+  border-radius: 10px;
+}
+h1 {
+  font-size: clamp(2rem, 6vw, 3rem);
+  color: var(--color-white);
+  margin-bottom: 0;
+  text-align: center;
+}
+
+hr {
+  background-color: var(--color-lightgray);
+  height: 0.5rem;
+  width: 50%;
+  height: 2px;
+  border: none;
+}
+
+p {
+  font-size: 1.5rem;
+  color: var(--color-white);
+  margin-top: 0;
+  text-align: center;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 60%;
+  background-color: var(--color-darkgray-alpha);
+  margin-top: 50px;
+  border-radius: 10px;
+  padding-bottom: 3rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 85px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+label {
+  color: var(--color-white);
+  font-size: 1.5rem;
+}
+.info-input {
+  margin-top: 0.5rem;
+  width: 30rem;
+  height: 1.5rem;
+}
+.name-container {
+  margin-bottom: 20px;
+}
+.phone-container {
+  margin-bottom: 20px;
+}
+
+.email-container {
+  margin-bottom: 50px;
+}
+
+select {
+  width: 30rem;
+  height: 2rem;
+}
+.dropdown-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.dropdown-label {
+  width: 30rem;
+  margin-bottom: 20px;
+}
+.radio-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 50px;
+}
+
+.radio-title {
+  width: 30rem;
+}
+.radio-label {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.radio-input {
+  margin: 0;
+  transform: translateY(-1px);
+}
+
+.checkbox-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 50px;
+}
+.checkbox-title {
+  width: 30rem;
+}
+
+.checkbox-label {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.checkbox-input {
+  margin: 0;
+  transform: translateY(-1px);
+}
+.textarea-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+.textarea-title {
+  width: 30rem;
+}
+.textarea-input {
+  width: 30rem;
+  height: 8rem;
+}
+.submit-input {
+  width: 30rem;
+  height: 2.5rem;
+  background-color: rgb(135, 128, 128);
+  border: none;
+  font-size: 1.5rem;
+  border-radius: 5px;
+  color: var(--color-white);
+  cursor: pointer;
+}
+.submit-input:hover {
+  opacity: 50%;
+}
+
+@media (max-width: 900px) {
+  .info-input {
+    width: 25rem;
+  }
+  .dropdown-label {
+    width: 25rem;
+  }
+  #dropdown {
+    width: 25rem;
+  }
+  .radio-title {
+    width: 25rem;
+  }
+  .checkbox-title {
+    width: 25rem;
+  }
+  .textarea-title {
+    width: 25rem;
+  }
+  .textarea-input {
+    width: 25rem;
+  }
+  .submit-input {
+    width: 25rem;
+  }
+}
+@media (max-width: 750px) {
+  .info-input {
+    width: 20rem;
+  }
+  .dropdown-label {
+    width: 20rem;
+  }
+  #dropdown {
+    width: 20rem;
+  }
+  .radio-title {
+    width: 20rem;
+  }
+  .checkbox-title {
+    width: 20rem;
+  }
+  .textarea-title {
+    width: 20rem;
+  }
+  .textarea-input {
+    width: 20rem;
+  }
+  .submit-input {
+    width: 20rem;
+  }
+}
+@media (max-width: 620px) {
+  .info-input {
+    width: 15rem;
+  }
+  .dropdown-label {
+    width: 15rem;
+  }
+  #dropdown {
+    width: 15rem;
+  }
+  .radio-title {
+    width: 15rem;
+  }
+  .checkbox-title {
+    width: 15rem;
+  }
+  .textarea-title {
+    width: 15rem;
+  }
+  .textarea-input {
+    width: 15rem;
+  }
+  .submit-input {
+    width: 15rem;
+  }
+}
+@media (max-width: 475px) {
+  .survey-header {
+    width: 90%;
+  }
+  .form-container {
+    margin-top: 20px;
+    width: 90%;
+  }
+  .info-input {
+    width: 10rem;
+  }
+  .dropdown-label {
+    width: 10rem;
+  }
+  #dropdown {
+    width: 10rem;
+  }
+
+  .checkbox-title {
+    width: 10rem;
+  }
+  .textarea-title {
+    width: 10rem;
+  }
+  .textarea-input {
+    width: 10rem;
+  }
+  .submit-input {
+    width: 10rem;
+  }
+}
