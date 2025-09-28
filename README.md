@@ -5,9 +5,10 @@
 This repository contains my solutions to various **FreeCodeCamp labs and projects** as I progress through the Full Stack Development curriculum.  
 It’s organized by major sections of the course, with live demos available via **GitHub Pages**.
 
----
 
 ## 📂 Repository Structure
+
+```
 FreeCodeCamp-FullStack-Dev-Labs/
 │
 ├── HTML-CSS/         # Completed HTML & CSS labs
@@ -23,9 +24,8 @@ FreeCodeCamp-FullStack-Dev-Labs/
 ├── JavaScript/       # JavaScript labs (coming soon)
 │
 └── README.md         # This file
+```
 
-
----
 
 ## 🌐 Live Demos (HTML & CSS Labs)
 
