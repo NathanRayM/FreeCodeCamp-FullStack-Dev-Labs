@@ -13,8 +13,6 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   ├── build-a-page-of-playing-cards/
 │   ├── build-a-product-landing-page/
 │   ├── build-a-survey-form/
-│   ├── product-landing-page/
-│   ├── build-a-survey-form/
 │   ├── build-a-technical-documentation-page/
 │   ├── build-a-tribute-page/
 │   ├── build-an-orbit-moon/
@@ -29,14 +27,14 @@ FreeCodeCamp-FullStack-Dev-Labs/
 
 ## 🌐 Live Demos (HTML & CSS Labs)
 
+- [Build a Newspaper Article](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/HTML-CSS/build-a-newspaper-article/)  
+- [Build a Page of Playing Cards](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/HTML-CSS/build-a-page-of-playing-cards/)  
+- [Build a Product Landing Page](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/HTML-CSS/build-a-product-landing-page/)  
+- [Build a Survey Form](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/HTML-CSS/build-a-survey-form/)  
+- [Build a Technical Documentation Page](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/HTML-CSS/build-a-technical-documentation-page/)  
 - [Build a Tribute Page](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/HTML-CSS/build-a-tribute-page/)  
-- [Survey Form](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/HTML-CSS/survey-form/)  
-- [Technical Documentation Page](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/HTML-CSS/technical-documentation/)  
-- [Product Landing Page](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/HTML-CSS/product-landing-page/)  
-- [Portfolio Webpage](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/HTML-CSS/portfolio-webpage/)  
-- [Tribute 2](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/HTML-CSS/tribute-2/)  
-- [Survey Form 2](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/HTML-CSS/survey-form-2/)  
-- [Another Project](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/HTML-CSS/another-project/)  
+- [Build an Orbit Moon](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/HTML-CSS/build-an-orbit-moon/)  
+- [Design a Magazine Layout](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/HTML-CSS/design-a-magazine-layout/)  
 
 ---
 
