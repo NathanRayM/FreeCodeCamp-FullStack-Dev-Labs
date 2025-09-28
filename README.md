@@ -1,5 +1,7 @@
 # FreeCodeCamp Full Stack Development Labs
 
+![FreeCodeCamp](https://www.freecodecamp.org/news/content/images/size/w2000/2022/07/fcc_primary.png)
+
 This repository contains my solutions to various **FreeCodeCamp labs and projects** as I progress through the Full Stack Development curriculum.  
 It’s organized by major sections of the course, with live demos available via **GitHub Pages**.
 
