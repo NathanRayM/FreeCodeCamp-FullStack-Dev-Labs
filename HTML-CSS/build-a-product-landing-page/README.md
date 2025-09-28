@@ -1,8 +1,8 @@
-# [Build A Product Landing Page]
+# Build A Product Landing Page
 
 This is my FreeCodeCamp HTML/CSS lab included in the Fullstack Developer course.
 
-**Live Demo:** [View in Browser](https://yourusername.github.io/FCC-projects/HTML-CSS/[Lab-Folder-Name]/index.html)
+**Live Demo:** [View in Browser](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/HTML-CSS/build-a-product-landing-page/)
 
 ## Description
 
