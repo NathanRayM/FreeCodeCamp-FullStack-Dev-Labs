@@ -95,7 +95,7 @@ FreeCodeCamp-FullStack-Dev-Labs/
 
 ## 🚀 Live Demos (JavaScript Labs)
 
-All JavaScript labs can be run using the JS Lab Runner:
+All JavaScript labs can be run using the **JS Lab Runner**, with output visible in the browser console:
 
 [![Run JavaScript Labs](https://img.shields.io/badge/Run-JavaScript%20Labs-blue?style=for-the-badge)](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/index.html)
 
