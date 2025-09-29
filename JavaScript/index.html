@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>JavaScript Labs Runner</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 2rem;
+      }
+      h1 {
+        margin-bottom: 1rem;
+      }
+      .lab-section {
+        margin-bottom: 2rem;
+      }
+      .lab-section h2 {
+        margin-bottom: 0.5rem;
+      }
+      .lab-button {
+        display: block;
+        margin: 0.2rem 0;
+        padding: 0.5rem 1rem;
+        font-size: 1rem;
+        cursor: pointer;
+        background-color: #4caf50;
+        color: white;
+        border: none;
+        border-radius: 4px;
+      }
+      .lab-button:hover {
+        background-color: #45a049;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>JavaScript Labs Runner</h1>
+    <p>
+      Click a lab below to run it. Open the browser console to see the output.
+    </p>
+
+    <!-- Arrays -->
+    <div class="lab-section">
+      <h2>Arrays</h2>
+      <button
+        class="lab-button"
+        onclick="runLab('arrays/build-a-golf-score-translator.js')"
+      >
+        Build a Golf Score Translator
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('arrays/build-a-lunch-picker-program.js')"
+      >
+        Build a Lunch Picker Program
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('arrays/build-a-string-inverter.js')"
+      >
+        Build a String Inverter
+      </button>
+    </div>
+
+    <!-- Booleans & Numbers -->
+    <div class="lab-section">
+      <h2>Booleans & Numbers</h2>
+      <button
+        class="lab-button"
+        onclick="runLab('booleans-and-numbers/build-a-fortune-teller.js')"
+      >
+        Build a Fortune Teller
+      </button>
+    </div>
+
+    <!-- Functions -->
+    <div class="lab-section">
+      <h2>Functions</h2>
+      <button
+        class="lab-button"
+        onclick="runLab('functions/build-a-boolean-check-function.js')"
+      >
+        Build a Boolean Check Function
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('functions/build-a-card-counting-assistant.js')"
+      >
+        Build a Card Counting Assistant
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('functions/build-a-celsius-to-fahrenheit-converter.js')"
+      >
+        Build a Celsius to Fahrenheit Converter
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('functions/build-a-leap-year-calculator.js')"
+      >
+        Build a Leap Year Calculator
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('functions/build-an-email-masker.js')"
+      >
+        Build an Email Masker
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('functions/implement-a-string-ending-checker-function.js')"
+      >
+        Implement a String Ending Checker Function
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('functions/truncate-a-string.js')"
+      >
+        Truncate a String
+      </button>
+    </div>
+
+    <!-- Higher Order Functions & Callbacks -->
+    <div class="lab-section">
+      <h2>Higher-Order Functions & Callbacks</h2>
+      <button
+        class="lab-button"
+        onclick="runLab('higher-order-functions-and-callbacks/build-a-book-organizer.js')"
+      >
+        Build a Book Organizer
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('higher-order-functions-and-callbacks/build-a-sum-all-primes-calculator.js')"
+      >
+        Build a Sum All Primes Calculator
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('higher-order-functions-and-callbacks/create-a-deep-flattening-tool.js')"
+      >
+        Create a Deep Flattening Tool
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('higher-order-functions-and-callbacks/implement-a-matching-object-filter.js')"
+      >
+        Implement a Matching Object Filter
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('higher-order-functions-and-callbacks/lab-sorted-index-finder.js')"
+      >
+        Lab: Sorted Index Finder
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('higher-order-functions-and-callbacks/lab-symmetric-difference.js')"
+      >
+        Lab: Symmetric Difference
+      </button>
+    </div>
+
+    <!-- JavaScript Fundamentals Review -->
+    <div class="lab-section">
+      <h2>JavaScript Fundamentals Review</h2>
+      <button
+        class="lab-button"
+        onclick="runLab('javascript-fundamentals-review/build-a-first-element-finder.js')"
+      >
+        Build a First Element Finder
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('javascript-fundamentals-review/build-a-gradebook-app.js')"
+      >
+        Build a Gradebook App
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('javascript-fundamentals-review/build-a-title-case-converter.js')"
+      >
+        Build a Tile Case Converter
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('javascript-fundamentals-review/build-an-inventory-management-program.js')"
+      >
+        Build an Inventory Management Program
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('javascript-fundamentals-review/build-an-optional-arguments-sum-function.js')"
+      >
+        Build an Optional Arguments Sum Function
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('javascript-fundamentals-review/build-the-largest-number-finder.js')"
+      >
+        Build the Largest Number Finder
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('javascript-fundamentals-review/implement-a-dna-pair-generator.js')"
+      >
+        Implement a DNA Pair Generator
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('javascript-fundamentals-review/implement-a-falsy-remover.js')"
+      >
+        Implement a Falsy Remover
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('javascript-fundamentals-review/implement-an-html-entity-converter.js')"
+      >
+        Implement an HTML Entity Converter
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('javascript-fundamentals-review/implement-the-slice-and-splice-algorithm.js')"
+      >
+        Implement the Slice and Splice Algorithm
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('javascript-fundamentals-review/lab-password-generator.js')"
+      >
+        Lab: Password Generator
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('javascript-fundamentals-review/lab-pyramid-generator.js')"
+      >
+        Lab: Pyramid Generator
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('javascript-fundamentals-review/lab-sum-all-numbers-algorithm.js')"
+      >
+        Lab: Sum All Numbers Algorithm
+      </button>
+    </div>
+
+    <!-- Loops -->
+    <div class="lab-section">
+      <h2>Loops</h2>
+      <button
+        class="lab-button"
+        onclick="runLab('loops/build-a-factorial-calculator.js')"
+      >
+        Build a Factorial Calculator
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('loops/build-a-longest-word-finder-app.js')"
+      >
+        Build a Longest Word Finder App
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('loops/build-a-string-repeating-function.js')"
+      >
+        Build a String Repeating Function
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('loops/implement-the-chunky-monkey-algorithm.js')"
+      >
+        Implement the Chunky Monkey Algorithm
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('loops/implement-the-mutations-algorithm.js')"
+      >
+        Implement the Mutations Algorithm
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('loops/lab-profile-lookup.js')"
+      >
+        Lab: Profile Lookup
+      </button>
+    </div>
+
+    <!-- Objects -->
+    <div class="lab-section">
+      <h2>Objects</h2>
+      <button
+        class="lab-button"
+        onclick="runLab('objects/build-a-record-collection.js')"
+      >
+        Build a Record Collection
+      </button>
+      <button class="lab-button" onclick="runLab('objects/lab-quiz-game.js')">
+        Lab: Quiz Game
+      </button>
+    </div>
+
+    <!-- Variables and Strings -->
+    <div class="lab-section">
+      <h2>Variables & Strings</h2>
+      <button
+        class="lab-button"
+        onclick="runLab('variables-and-strings/build-a-sentence-maker.js')"
+      >
+        Build a Sentence Maker
+      </button>
+      <button
+        class="lab-button"
+        onclick="runLab('variables-and-strings/lab-javascript-trivia-bot.js')"
+      >
+        Lab: JavaScript Trivia Bot
+      </button>
+    </div>
+
+    <script>
+      function runLab(path) {
+        console.clear();
+        console.log(`✅ Running ${path}...`);
+        const script = document.createElement("script");
+        script.src = path;
+        script.type = "module";
+        script.onload = () => console.log(`✅ ${path} loaded successfully!`);
+        script.onerror = () => console.error(`❌ Failed to load ${path}`);
+        document.body.appendChild(script);
+      }
+    </script>
+  </body>
+</html>
