@@ -93,73 +93,72 @@ FreeCodeCamp-FullStack-Dev-Labs/
 
 ---
 
-## 🌐 Live Demos (JavaScript Labs)
+## 🚀 Live Demos (JavaScript Labs)
 
-> Click a lab to run it in your browser using the JavaScript runner.
+All JavaScript labs can be run using the JS Lab Runner:
 
-### Arrays
+[![Run JavaScript Labs](https://img.shields.io/badge/Run-JavaScript%20Labs-blue?style=for-the-badge)](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/index.html)
 
-- [Build a Golf Score Translator](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/arrays/build-a-golf-score-translator/)
-- [Build a Lunch Picker Program](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/arrays/build-a-lunch-picker-program/)
-- [Build a String Inverter](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/arrays/build-a-string-inverter/)
+From the runner, you can select the following sections and labs:
 
-### Booleans and Numbers
+```
+Arrays
+• build-a-golf-score-translator
+• build-a-lunch-picker-program
+• build-a-string-inverter
 
-- [Build a Fortune Teller](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/booleans-and-numbers/build-a-fortune-teller/)
+Booleans & Numbers
+• build-a-fortune-teller
 
-### Functions
+Functions
+• build-a-boolean-check-function
+• build-a-card-counting-assistant
+• build-a-celcius-to-fahrenheit-converter
+• build-a-leap-year-calculator
+• build-an-email-masker
+• implement-a-string-ending-checker-function
+• trunicate-a-string
 
-- [Build a Boolean Check Function](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/functions/build-a-boolean-check-function/)
-- [Build a Card Counting Assistant](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/functions/build-a-card-counting-assistant/)
-- [Build a Celsius to Fahrenheit Converter](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/functions/build-a-celcius-to-fahrenheit-converter/)
-- [Build a Leap Year Calculator](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/functions/build-a-leap-year-calculator/)
-- [Build an Email Masker](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/functions/build-an-email-masker/)
-- [Implement a String Ending Checker Function](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/functions/implement-a-string-ending-checker-function/)
-- [Truncate a String](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/functions/trunicate-a-string/)
+Higher-Order Functions & Callbacks
+• build-a-book-organizer
+• build-a-sum-all-primes-calculator
+• create-a-deep-flattening-tool
+• implement-a-matching-object-filter
+• lab-sorted-index-finder
+• lab-symmetric-difference
 
-### Higher Order Functions & Callbacks
+JavaScript Fundamentals Review
+• build-a-first-element-finder
+• build-a-gradebook-app
+• build-a-title-case-converter
+• build-an-inventory-management-program
+• build-an-optional-arguments-sum-function
+• build-the-largest-number-finder
+• implement-a-dna-pair-generator
+• implement-a-falsy-remover
+• implement-an-html-entity-converter
+• implement-the-slice-and-splice-algorithm
+• lab-password-generator
+• lab-pyramid-generator
+• lab-sum-all-numbers-algorithm
 
-- [Build a Book Organizer](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/higher-order-functions-and-callbacks/build-a-book-organizer/)
-- [Build a Sum All Primes Calculator](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/higher-order-functions-and-callbacks/build-a-sum-all-primes-calculator/)
-- [Create a Deep Flattening Tool](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/higher-order-functions-and-callbacks/create-a-deep-flattening-tool/)
-- [Implement a Matching Object Filter](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/higher-order-functions-and-callbacks/implement-a-matching-object-filter/)
-- [Lab: Sorted Index Finder](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/higher-order-functions-and-callbacks/lab-sorted-index-finder/)
-- [Lab: Symmetric Difference](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/higher-order-functions-and-callbacks/lab-symmetric-difference/)
+Loops
+• build-a-factorial-calculator
+• build-a-longest-word-finder-app
+• build-a-string-repeating-function
+• implement-the-chunky-monkey-algorithm
+• implement-the-mutations-algorithm
+• lab-profile-lookup
 
-### JavaScript Fundamentals Review
+Objects
+• build-a-record-collection
+• lab-quiz-game
 
-- [Build a First Element Finder](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/javascript-fundamentals-review/build-a-first-element-finder/)
-- [Build a Gradebook App](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/javascript-fundamentals-review/build-a-gradebook-app/)
-- [Build a Tile Case Converter](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/javascript-fundamentals-review/build-a-tile-case-converter/)
-- [Build an Inventory Management Program](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/javascript-fundamentals-review/build-an-inventory-management-program/)
-- [Build an Optional Arguments Sum Function](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/javascript-fundamentals-review/build-an-optional-arguments-sum-function/)
-- [Build the Largest Number Finder](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/javascript-fundamentals-review/build-the-largest-number-finder/)
-- [Implement a DNA Pair Generator](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/javascript-fundamentals-review/implement-a-dna-pair-generator/)
-- [Implement a Falsy Remover](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/javascript-fundamentals-review/implement-a-falsy-remover/)
-- [Implement an HTML Entity Converter](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/javascript-fundamentals-review/implement-an-html-entity-converter/)
-- [Implement the Slice and Splice Algorithm](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/javascript-fundamentals-review/implement-the-slice-and-splice-algorithm/)
-- [Lab: Password Generator](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/javascript-fundamentals-review/lab-password-generator/)
-- [Lab: Pyramid Generator](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/javascript-fundamentals-review/lab-pyramid-generator/)
-- [Lab: Sum All Numbers Algorithm](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/javascript-fundamentals-review/lab-sum-all-numbers-algorithm/)
+Variables & Strings
+• build-a-sentence-maker
+• lab-javascript-trivia-bot
 
-### Loops
-
-- [Build a Factorial Calculator](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/loops/build-a-factorial-calculator/)
-- [Build a Longest Word Finder App](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/loops/build-a-longest-word-finder-app/)
-- [Build a String Repeating Function](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/loops/build-a-string-repeating-function/)
-- [Implement the Chunky Monkey Algorithm](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/loops/implement-the-chunky-monkey-algorithm/)
-- [Implement the Mutations Algorithm](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/loops/implement-the-mutations-algorithm/)
-- [Lab: Profile Lookup](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/loops/lab-profile-lookup/)
-
-### Objects
-
-- [Build a Record Collection](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/objects/build-a-record-collection/)
-- [Lab: Quiz Game](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/objects/lab-quiz-game/)
-
-### Variables and Strings
-
-- [Build a Sentence Maker](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/variables-and-strings/build-a-sentence-maker/)
-- [Lab: JavaScript Trivia Bot](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/variables-and-strings/lab-javascript-trivia-bot/)
+```
 
 ---
 
