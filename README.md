@@ -67,7 +67,8 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   │   ├── build-a-string-repeating-function.js
 │   │   ├── implement-the-chunky-monkey-algorithm.js
 │   │   ├── implement-the-mutations-algorithm.js
-│   │   └── lab-profile-lookup.js
+│   │   ├── lab-profile-lookup.js
+│   │   └── find-missing-letter.js
 │   │
 │   ├── objects/
 │   │   ├── build-a-record-collection.js
@@ -149,6 +150,8 @@ Loops
 • implement-the-chunky-monkey-algorithm
 • implement-the-mutations-algorithm
 • lab-profile-lookup
+• build-a-missing-letter-detector
+
 
 Objects
 • build-a-record-collection
