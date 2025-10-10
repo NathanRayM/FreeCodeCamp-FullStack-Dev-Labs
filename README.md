@@ -74,9 +74,12 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   │   ├── build-a-record-collection.js
 │   │   └── lab-quiz-game.js
 │   │
-│   └── variables-and-strings/
-│       ├── build-a-sentence-maker.js
-│       └── lab-javascript-trivia-bot.js
+│   ├── variables-and-strings/
+│   │   ├── build-a-sentence-maker.js
+│   │   └── lab-javascript-trivia-bot.js
+│   │
+│   └── DOM-manipulation-and-events/
+│       └── build-a-favorite-icon-toggler/
 │
 └── README.md         # This file
 ```
@@ -152,7 +155,6 @@ Loops
 • lab-profile-lookup
 • build-a-missing-letter-detector
 
-
 Objects
 • build-a-record-collection
 • lab-quiz-game
@@ -160,6 +162,9 @@ Objects
 Variables & Strings
 • build-a-sentence-maker
 • lab-javascript-trivia-bot
+
+DOM Manipulation and Events
+• build-a-favorite-icon-toggler
 
 ```
 
