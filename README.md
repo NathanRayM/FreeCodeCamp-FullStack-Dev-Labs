@@ -163,10 +163,15 @@ Variables & Strings
 • build-a-sentence-maker
 • lab-javascript-trivia-bot
 
-DOM Manipulation and Events
-• build-a-favorite-icon-toggler
-
 ```
+
+---
+
+## 🌐 Live Demos (DOM / Full Stack Labs)
+
+These labs include HTML, CSS, and JavaScript and can be viewed directly in the browser:
+
+- [Build a Favorite Icon Toggler](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/DOM-manipulation-and-events/build-a-favorite-icon-toggler/index.html)
 
 ---
 
