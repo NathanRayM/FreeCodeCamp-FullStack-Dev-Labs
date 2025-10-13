@@ -79,7 +79,8 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   │   └── lab-javascript-trivia-bot.js
 │   │
 │   └── DOM-manipulation-and-events/
-│       └── build-a-favorite-icon-toggler/
+        ├── build-a-favorite-icon-toggler
+│       └── build-a-real-time-counter
 │
 └── README.md         # This file
 ```
@@ -172,6 +173,7 @@ Variables & Strings
 These labs include HTML, CSS, and JavaScript and can be viewed directly in the browser:
 
 - [Build a Favorite Icon Toggler](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/DOM-manipulation-and-events/build-a-favorite-icon-toggler/index.html)
+- [Build a real time counter](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/DOM-manipulation-and-events/build-a-real-time-counter/index.html)
 
 ---
 
