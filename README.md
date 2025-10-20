@@ -81,7 +81,8 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   └── DOM-manipulation-and-events/
         ├── build-a-favorite-icon-toggler
         ├── build-a-real-time-counter
-│       └── build-a-lightbox-viewer
+        ├── build-a-lightbox-viewer
+│       └── build-a-set-of-football-team-cards
 │
 └── README.md         # This file
 ```
@@ -176,6 +177,7 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 - [Build a Favorite Icon Toggler](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/DOM-manipulation-and-events/build-a-favorite-icon-toggler/index.html)
 - [Build a real time counter](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/DOM-manipulation-and-events/build-a-real-time-counter/index.html)
 - [Build a Lightbox Viewer](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/DOM-manipulation-and-events/build-a-lightbox-viewer/index.html)
+- [Build a Set Of Football Team Cards](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/DOM-manipulation-and-events/build-a-set-of-football-team-cards/index.html)
 
 ---
 
