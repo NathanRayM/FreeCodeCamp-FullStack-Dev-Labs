@@ -78,11 +78,13 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   │   ├── build-a-sentence-maker.js
 │   │   └── lab-javascript-trivia-bot.js
 │   │
-│   └── DOM-manipulation-and-events/
-        ├── build-a-favorite-icon-toggler
-        ├── build-a-real-time-counter
-        ├── build-a-lightbox-viewer
-│       └── build-a-set-of-football-team-cards
+│   |── DOM-manipulation-and-events/
+|   |   ├── build-a-favorite-icon-toggler
+|   |   ├── build-a-real-time-counter
+|   |   ├── build-a-lightbox-viewer
+│   |   └── build-a-set-of-football-team-cards
+│   └── javascript-and-accessibility/
+│       └── build-a-theme-switcher
 │
 └── README.md         # This file
 ```
@@ -178,6 +180,7 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 - [Build a real time counter](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/DOM-manipulation-and-events/build-a-real-time-counter/index.html)
 - [Build a Lightbox Viewer](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/DOM-manipulation-and-events/build-a-lightbox-viewer/index.html)
 - [Build a Set Of Football Team Cards](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/DOM-manipulation-and-events/build-a-set-of-football-team-cards/index.html)
+- [Build a theme switcher](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/javascript-and-accessibility/build-a-theme-switcher/index.html)
 
 ---
 
