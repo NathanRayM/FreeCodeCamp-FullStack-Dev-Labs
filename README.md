@@ -83,8 +83,10 @@ FreeCodeCamp-FullStack-Dev-Labs/
 |   |   ├── build-a-real-time-counter
 |   |   ├── build-a-lightbox-viewer
 │   |   └── build-a-set-of-football-team-cards
-│   └── javascript-and-accessibility/
-│       └── build-a-theme-switcher
+│   |── javascript-and-accessibility/
+│   |   └── build-a-theme-switcher
+│   └── debugging/
+│       └── debug-a-random-background-changer
 │
 └── README.md         # This file
 ```
@@ -181,6 +183,7 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 - [Build a Lightbox Viewer](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/DOM-manipulation-and-events/build-a-lightbox-viewer/index.html)
 - [Build a Set Of Football Team Cards](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/DOM-manipulation-and-events/build-a-set-of-football-team-cards/index.html)
 - [Build a theme switcher](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/javascript-and-accessibility/build-a-theme-switcher/index.html)
+- [Debug a random background changer](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/debugging/debug-a-random-background-changer/index.html)
 
 ---
 
