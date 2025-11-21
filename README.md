@@ -78,15 +78,17 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   │   ├── build-a-sentence-maker.js
 │   │   └── lab-javascript-trivia-bot.js
 │   │
-│   |── DOM-manipulation-and-events/
-|   |   ├── build-a-favorite-icon-toggler
-|   |   ├── build-a-real-time-counter
-|   |   ├── build-a-lightbox-viewer
-│   |   └── build-a-set-of-football-team-cards
-│   |── javascript-and-accessibility/
-│   |   └── build-a-theme-switcher
-│   └── debugging/
-│       └── debug-a-random-background-changer
+│   ├── DOM-manipulation-and-events/
+|   │   ├── build-a-favorite-icon-toggler
+|   │   ├── build-a-real-time-counter
+|   │   ├── build-a-lightbox-viewer
+│   │   └── build-a-set-of-football-team-cards
+│   ├── javascript-and-accessibility/
+│   │   └── build-a-theme-switcher
+│   ├── debugging/
+│   │   └── debug-a-random-background-changer
+│   └── regex/
+│       └── build-a-palindrome-checker
 │
 └── README.md         # This file
 ```
@@ -184,6 +186,7 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 - [Build a Set Of Football Team Cards](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/DOM-manipulation-and-events/build-a-set-of-football-team-cards/index.html)
 - [Build a theme switcher](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/javascript-and-accessibility/build-a-theme-switcher/index.html)
 - [Debug a random background changer](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/debugging/debug-a-random-background-changer/index.html)
+- [Build a Palindrome checker](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/regex/build-a-palindrome-checker/index.html)
 
 ---
 
