@@ -90,7 +90,8 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   └── regex/
 │       │── build-a-palindrome-checker
 │       │── build-a-regex-sandbox
-│       └── implement-a-spinal-case-converter.js
+│       │── implement-a-spinal-case-converter.js
+│       └── implement-a-pig-latin-translator.js
 │
 └── README.md         # This file
 ```
