@@ -91,7 +91,8 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │       │── build-a-palindrome-checker
 │       │── build-a-regex-sandbox
 │       │── implement-a-spinal-case-converter.js
-│       └── implement-a-pig-latin-translator.js
+│       │── implement-a-pig-latin-translator.js
+│       └── build-a-smart-word-replacement-function.js
 │
 └── README.md         # This file
 ```
