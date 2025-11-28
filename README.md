@@ -92,7 +92,8 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │       │── build-a-regex-sandbox
 │       │── implement-a-spinal-case-converter.js
 │       │── implement-a-pig-latin-translator.js
-│       └── build-a-smart-word-replacement-function.js
+│       │── build-a-smart-word-replacement-function.js
+│       └── build-a-markdown-to-html-converter
 │
 └── README.md         # This file
 ```
@@ -192,6 +193,7 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 - [Debug a random background changer](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/debugging/debug-a-random-background-changer/index.html)
 - [Build a Palindrome checker](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/regex/build-a-palindrome-checker/index.html)
 - [Build a Regex Sandbox](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/regex/build-a-regex-sandbox/index.html)
+- [Build a Markdown to HTML Converter](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/regex/build-a-markdown-to-html-converter/index.html)
 
 ---
 
