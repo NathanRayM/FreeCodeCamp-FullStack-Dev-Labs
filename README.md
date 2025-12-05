@@ -87,14 +87,15 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   │   └── build-a-theme-switcher
 │   ├── debugging/
 │   │   └── debug-a-random-background-changer
-│   └── regex/
-│       │── build-a-palindrome-checker
-│       │── build-a-regex-sandbox
-│       │── implement-a-spinal-case-converter.js
-│       │── implement-a-pig-latin-translator.js
-│       │── build-a-smart-word-replacement-function.js
-│       └── build-a-markdown-to-html-converter
-│
+│   ├── regex/
+│   │   │── build-a-palindrome-checker
+│   │   │── build-a-regex-sandbox
+│   │   │── implement-a-spinal-case-converter.js
+│   │   │── implement-a-pig-latin-translator.js
+│   │   │── build-a-smart-word-replacement-function.js
+│   │   └── build-a-markdown-to-html-converter
+│   ├── form-validation/
+        └── build-a-customer-complaint-form
 └── README.md         # This file
 ```
 
@@ -194,6 +195,7 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 - [Build a Palindrome checker](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/regex/build-a-palindrome-checker/index.html)
 - [Build a Regex Sandbox](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/regex/build-a-regex-sandbox/index.html)
 - [Build a Markdown to HTML Converter](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/regex/build-a-markdown-to-html-converter/index.html)
+- [Build a Customer Complaint Form](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/form-validation/build-a-customer-complaint-form/index.html)
 
 ---
 
