@@ -83,10 +83,13 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   │   ├── build-a-real-time-counter
 │   │   ├── build-a-lightbox-viewer
 │   │   └── build-a-set-of-football-team-cards
+│   │
 │   ├── javascript-and-accessibility/
 │   │   └── build-a-theme-switcher
+│   │
 │   ├── debugging/
 │   │   └── debug-a-random-background-changer
+│   │
 │   ├── regex/
 │   │   │── build-a-palindrome-checker
 │   │   │── build-a-regex-sandbox
@@ -94,8 +97,10 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   │   │── implement-a-pig-latin-translator.js
 │   │   │── build-a-smart-word-replacement-function.js
 │   │   └── build-a-markdown-to-html-converter
-│   ├── form-validation/
-        └── build-a-customer-complaint-form
+│   │
+│   └── form-validation/
+│       └── build-a-customer-complaint-form
+│
 └── README.md         # This file
 ```
 
