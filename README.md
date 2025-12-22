@@ -101,8 +101,11 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   ├── form-validation/
 │   │   └── build-a-customer-complaint-form
 │   │
-│   └──dates/
-│       └── build-a-date-conversion-program.js
+│   ├──dates/
+│   │   └── build-a-date-conversion-program.js
+│   │
+│   └── audio-and-video-events/
+│       └── build-a-drum-machine
 │
 └── README.md         # This file
 ```
@@ -204,6 +207,7 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 - [Build a Regex Sandbox](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/regex/build-a-regex-sandbox/index.html)
 - [Build a Markdown to HTML Converter](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/regex/build-a-markdown-to-html-converter/index.html)
 - [Build a Customer Complaint Form](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/form-validation/build-a-customer-complaint-form/index.html)
+- [Build a Drum Machine](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/audio-and-video-events/build-a-drum-machine/index.html)
 
 ---
 
