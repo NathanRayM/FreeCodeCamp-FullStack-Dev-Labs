@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Drum Machine</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!--Start Main Container-->
+    <div class="inner-container" id="drum-machine">
+      <!--Start Pad Bank-->
+      <div id="pad-bank">
+        <div id="Heater-1" class="drum-pad">
+          Q
+          <audio
+            id="Q"
+            class="clip"
+            src="https://cdn.freecodecamp.org/curriculum/drum/Heater-1.mp3"
+          ></audio>
+        </div>
+        <div id="Heater-2" class="drum-pad">
+          W
+          <audio
+            id="W"
+            class="clip"
+            src="https://cdn.freecodecamp.org/curriculum/drum/Heater-2.mp3"
+          ></audio>
+        </div>
+        <div id="Heater-3" class="drum-pad">
+          E
+          <audio
+            id="E"
+            class="clip"
+            src="https://cdn.freecodecamp.org/curriculum/drum/Heater-3.mp3"
+          ></audio>
+        </div>
+        <div id="Heater-4" class="drum-pad">
+          A
+          <audio
+            id="A"
+            class="clip"
+            src="https://cdn.freecodecamp.org/curriculum/drum/Heater-4_1.mp3"
+          ></audio>
+        </div>
+        <div id="Clap" class="drum-pad">
+          S
+          <audio
+            id="S"
+            class="clip"
+            src="https://cdn.freecodecamp.org/curriculum/drum/Heater-6.mp3"
+          ></audio>
+        </div>
+        <div id="Open-HH" class="drum-pad">
+          D
+          <audio
+            id="D"
+            class="clip"
+            src="https://cdn.freecodecamp.org/curriculum/drum/Dsc_Oh.mp3"
+          ></audio>
+        </div>
+        <div id="Kick-n'-Hat" class="drum-pad">
+          Z
+          <audio
+            id="Z"
+            class="clip"
+            src="https://cdn.freecodecamp.org/curriculum/drum/Kick_n_Hat.mp3"
+          ></audio>
+        </div>
+        <div id="Kick" class="drum-pad">
+          X
+          <audio
+            id="X"
+            class="clip"
+            src="https://cdn.freecodecamp.org/curriculum/drum/RP4_KICK_1.mp3"
+          ></audio>
+        </div>
+        <div id="Closed-HH" class="drum-pad">
+          C
+          <audio
+            id="C"
+            class="clip"
+            src="https://cdn.freecodecamp.org/curriculum/drum/Cev_H2.mp3"
+          ></audio>
+        </div>
+      </div>
+      <!--End Pad Bank-->
+      <!--Start Controls Container-->
+      <div class="controls-container">
+        <!--Start Power Controls-->
+        <div class="control power-control">
+          <p><span class="power-status">Power: On</span></p>
+          <div class="select on">
+            <div class="inner"></div>
+          </div>
+        </div>
+        <!--End Power Controls-->
+        <!--Start Display-->
+        <p id="display"></p>
+        <!--End Display-->
+        <!--Start Volume Slider-->
+        <div class="volume-slider">
+          Volume
+          <input type="range" min="0" max="1" step="0.01" value="1" />
+        </div>
+        <!--End Volume Slider-->
+      </div>
+      <!--End Controls Container-->
+    </div>
+    <!--End Main Container-->
+    <script src="script.js"></script>
+  </body>
+</html>
