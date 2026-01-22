@@ -104,8 +104,11 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   ├──dates/
 │   │   └── build-a-date-conversion-program.js
 │   │
-│   └── audio-and-video-events/
-│       └── build-a-drum-machine
+│   │── audio-and-video-events/
+│   │    └── build-a-drum-machine
+│   │
+│   └── local-storage-and-crud-operations/
+│        └── build-a-bookmark-manager-app
 │
 └── README.md         # This file
 ```
@@ -208,6 +211,7 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 - [Build a Markdown to HTML Converter](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/regex/build-a-markdown-to-html-converter/index.html)
 - [Build a Customer Complaint Form](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/form-validation/build-a-customer-complaint-form/index.html)
 - [Build a Drum Machine](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/audio-and-video-events/build-a-drum-machine/index.html)
+- [Build a Bookmark Manager App](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/local-storage-and-crud-applications/build-a-bookmark-manager-app/index.html)
 
 ---
 
