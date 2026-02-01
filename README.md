@@ -107,8 +107,12 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   │── audio-and-video-events/
 │   │    └── build-a-drum-machine
 │   │
-│   └── local-storage-and-crud-operations/
-│        └── build-a-bookmark-manager-app
+│   ├── local-storage-and-crud-operations/
+│   │    └── build-a-bookmark-manager-app
+│   │
+│   └── classes/
+│        │── build-a project-idea-board.js
+│        └── build-a-bank-account-management-program.js
 │
 └── README.md         # This file
 ```
