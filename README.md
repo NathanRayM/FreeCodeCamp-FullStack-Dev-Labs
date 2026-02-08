@@ -101,8 +101,8 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   ├── form-validation/
 │   │   └── build-a-customer-complaint-form
 │   │
-│   ├──dates/
-│   │   └── build-a-date-conversion-program.js
+│   ├── dates/
+│   │    └── build-a-date-conversion-program.js
 │   │
 │   │── audio-and-video-events/
 │   │    └── build-a-drum-machine
@@ -110,9 +110,13 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   ├── local-storage-and-crud-operations/
 │   │    └── build-a-bookmark-manager-app
 │   │
-│   └── classes/
-│        │── build-a project-idea-board.js
-│        └── build-a-bank-account-management-program.js
+│   ├── classes/
+│   │    │── build-a-project-idea-board.js
+│   │    └── build-a-bank-account-management-program.js
+│   │
+│   └── recursion/
+│        │── build-a-countdown.js
+│        └── build-a-permutation-generator.js
 │
 └── README.md         # This file
 ```
