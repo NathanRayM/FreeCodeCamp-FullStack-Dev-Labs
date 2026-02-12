@@ -114,9 +114,12 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   │    │── build-a-project-idea-board.js
 │   │    └── build-a-bank-account-management-program.js
 │   │
-│   └── recursion/
-│        │── build-a-countdown.js
-│        └── build-a-permutation-generator.js
+│   ├── recursion/
+│   │    │── build-a-countdown.js
+│   │    └── build-a-permutation-generator.js
+│   │
+│   └── functional-programming/
+│        └── build-a-sorting-visualizer
 │
 └── README.md         # This file
 ```
@@ -220,6 +223,7 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 - [Build a Customer Complaint Form](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/form-validation/build-a-customer-complaint-form/index.html)
 - [Build a Drum Machine](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/audio-and-video-events/build-a-drum-machine/index.html)
 - [Build a Bookmark Manager App](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/local-storage-and-crud-operations/build-a-bookmark-manager-app/index.html)
+- [Build a Sorting Visualizer](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/functional-programming/build-a-sorting-visualizer/index.html)
 
 ---
 
