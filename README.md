@@ -118,8 +118,11 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   │    │── build-a-countdown.js
 │   │    └── build-a-permutation-generator.js
 │   │
-│   └── functional-programming/
-│        └── build-a-sorting-visualizer
+│   ├── functional-programming/
+│   │    └── build-a-sorting-visualizer
+│   │
+│   └── asynchronous-javascript/
+│        └── build-an-fcc-forum-leaderboard
 │
 └── README.md         # This file
 ```
@@ -224,6 +227,7 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 - [Build a Drum Machine](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/audio-and-video-events/build-a-drum-machine/index.html)
 - [Build a Bookmark Manager App](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/local-storage-and-crud-operations/build-a-bookmark-manager-app/index.html)
 - [Build a Sorting Visualizer](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/functional-programming/build-a-sorting-visualizer/index.html)
+- [Build an FCC Forum Leaderboard](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/asynchronous-javascript/build-an-fcc-forum-leaderboard/index.html)
 
 ---
 
