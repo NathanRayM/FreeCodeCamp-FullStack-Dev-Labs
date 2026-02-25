@@ -121,8 +121,11 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   ├── functional-programming/
 │   │    └── build-a-sorting-visualizer
 │   │
-│   └── asynchronous-javascript/
-│        └── build-an-fcc-forum-leaderboard
+│   ├── asynchronous-javascript/
+│   │    └── build-an-fcc-forum-leaderboard
+│   │
+│   └── final-certification-project/
+│        └── build-a-weather-app
 │
 └── README.md         # This file
 ```
@@ -228,6 +231,7 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 - [Build a Bookmark Manager App](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/local-storage-and-crud-operations/build-a-bookmark-manager-app/index.html)
 - [Build a Sorting Visualizer](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/functional-programming/build-a-sorting-visualizer/index.html)
 - [Build an FCC Forum Leaderboard](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/asynchronous-javascript/build-an-fcc-forum-leaderboard/index.html)
+- [Build a Weather App](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/final-cerification-project/build-a-weather-app/index.html)
 
 ---
 
