@@ -1,6 +1,8 @@
 # FreeCodeCamp Full Stack Development Labs
 
-![FreeCodeCamp Banner](fcc-logo.jpg)
+<p align="center">
+  <img src="https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg" width="350">
+</p>
 
 This repository contains my solutions to various **FreeCodeCamp labs and projects** as I progress through the Full Stack Development curriculum.  
 It’s organized by major sections of the course, with live demos available via **GitHub Pages**.
@@ -127,6 +129,10 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   └── final-certification-project/
 │        └── build-a-weather-app
 │
+├── front-end-development-libraries/
+│   └── react-fundamentals/
+│        └── build-a-reusable-footer
+│
 └── README.md         # This file
 ```
 
@@ -213,7 +219,7 @@ Variables & Strings
 
 ---
 
-## 🌐 Live Demos (DOM / Full Stack Labs)
+## 🌐 Live Demos (DOM / HTML, CSS, Javascript labs)
 
 These labs include HTML, CSS, and JavaScript and can be viewed directly in the browser:
 
@@ -232,6 +238,12 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 - [Build a Sorting Visualizer](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/functional-programming/build-a-sorting-visualizer/index.html)
 - [Build an FCC Forum Leaderboard](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/asynchronous-javascript/build-an-fcc-forum-leaderboard/index.html)
 - [Build a Weather App](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/JavaScript/final-certification-project/build-a-weather-app/index.html)
+
+---
+
+## ⚛️ Live Demos (React / Front End Development Libraries Labs)
+
+- [Build a Reusable Footer](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/react-fundamentals/build-a-reusable-footer/index.html)
 
 ---
 
