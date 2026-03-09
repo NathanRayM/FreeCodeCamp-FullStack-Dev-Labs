@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg" width="350">
+  <img src="https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg" width="400">
 </p>
 
 <h2 align="center">FreeCodeCamp Full Stack Development Labs</h2>
