@@ -1,8 +1,8 @@
-# FreeCodeCamp Full Stack Development Labs
-
 <p align="center">
   <img src="https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg" width="350">
 </p>
+
+<h2 align="center">FreeCodeCamp Full Stack Development Labs</h2>
 
 This repository contains my solutions to various **FreeCodeCamp labs and projects** as I progress through the Full Stack Development curriculum.  
 It’s organized by major sections of the course, with live demos available via **GitHub Pages**.
