@@ -130,9 +130,12 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │        └── build-a-weather-app
 │
 ├── front-end-development-libraries/
-│   └── react-fundamentals/
-│        │── build-a-reusable-footer
-│        └── build-a-mood-board
+│   ├── react-fundamentals/
+│   │    │── build-a-reusable-footer
+│   │    └── build-a-mood-board
+│   │
+│   └── react-state-hooks-and-routing
+│         └── build-a-color-picker-app
 │
 └── README.md         # This file
 ```
@@ -246,6 +249,7 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 
 - [Build a Reusable Footer](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/react-fundamentals/build-a-reusable-footer/index.html)
 - [Build a Mood Board](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/react-fundamentals/build-a-mood-board/index.html)
+- [Build a Color Picker App](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/react-state-hooks-and-routing/build-a-color-picker-app/index.html)
 
 ---
 
