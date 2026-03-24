@@ -136,7 +136,8 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   │
 │   └── react-state-hooks-and-routing
 │        │── build-a-color-picker-app
-│        └── build-a-one-time-password-generator
+│        │── build-a-one-time-password-generator
+│        └── build-an-event-rsvp
 │
 └── README.md         # This file
 ```
@@ -252,6 +253,7 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 - [Build a Mood Board](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/react-fundamentals/build-a-mood-board/index.html)
 - [Build a Color Picker App](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/react-state-hooks-and-routing/build-a-color-picker-app/index.html)
 - [Build a One Time Password Generator](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/react-state-hooks-and-routing/build-a-one-time-password-generator/index.html)
+- [Build a One Time Password Generator](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/react-state-hooks-and-routing/build-an-event-rsvp/index.html)
 
 ---
 
