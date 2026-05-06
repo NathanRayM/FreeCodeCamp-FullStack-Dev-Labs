@@ -1,0 +1,47 @@
+body {
+  background-color: #0a0a23;
+  font-family: Lato, sans-serif;
+}
+
+main {
+  background-color: #1b1b32;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 400px;
+  margin: 50px auto;
+}
+
+h1 {
+  margin-bottom: 16px;
+  color: #f5f6f7;
+}
+
+.conversion-display {
+  font-size: 16px;
+  color: #f5f6f7;
+  margin-bottom: 10px;
+}
+
+input,
+select {
+  width: 100%;
+  display: block;
+  box-sizing: border-box;
+  padding: 8px;
+  margin-bottom: 12px;
+  margin-top: 4px;
+  border: 1px solid #99c9ff;
+  border-radius: 4px;
+}
+
+label {
+  color: #f5f6f7;
+}
+
+p {
+  font-size: 18px;
+  font-weight: bold;
+  color: #acd157;
+}
