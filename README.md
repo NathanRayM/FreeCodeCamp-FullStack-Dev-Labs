@@ -134,10 +134,13 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   │    │── build-a-reusable-footer
 │   │    └── build-a-mood-board
 │   │
-│   └── react-state-hooks-and-routing
-│        │── build-a-color-picker-app
-│        │── build-a-one-time-password-generator
-│        └── build-an-event-rsvp
+│   ├── react-state-hooks-and-routing/
+│   │    │── build-a-color-picker-app
+│   │    │── build-a-one-time-password-generator
+│   │    └── build-an-event-rsvp
+│   │
+│   └── certification-labs/
+│        └── build-a-currency-converter
 │
 └── README.md         # This file
 ```
@@ -254,6 +257,7 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 - [Build a Color Picker App](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/react-state-hooks-and-routing/build-a-color-picker-app/index.html)
 - [Build a One Time Password Generator](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/react-state-hooks-and-routing/build-a-one-time-password-generator/index.html)
 - [Build an Event RSVP](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/react-state-hooks-and-routing/build-an-event-rsvp/index.html)
+- [Build a Currency Converter](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/certification-labs/build-a-currency-converter/index.html)
 
 ---
 
