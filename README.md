@@ -140,7 +140,8 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   │    └── build-an-event-rsvp
 │   │
 │   └── certification-labs/
-│        └── build-a-currency-converter
+│        │── build-a-currency-converter
+│        └── build-a-tic-tac-toe-game
 │
 └── README.md         # This file
 ```
@@ -258,6 +259,7 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 - [Build a One Time Password Generator](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/react-state-hooks-and-routing/build-a-one-time-password-generator/index.html)
 - [Build an Event RSVP](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/react-state-hooks-and-routing/build-an-event-rsvp/index.html)
 - [Build a Currency Converter](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/certification-labs/build-a-currency-converter/index.html)
+- [Build a Tic Tac Toe Game](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/certification-labs/build-a-tic-tac-toe-game/index.html)
 
 ---
 
