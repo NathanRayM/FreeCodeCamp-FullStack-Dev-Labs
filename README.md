@@ -139,6 +139,9 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   │    │── build-a-one-time-password-generator
 │   │    └── build-an-event-rsvp
 │   │
+│   ├── css-libraries-and-frameworks
+│   │    └── build-a-music-shopping-cart-page
+│   │
 │   └── certification-labs/
 │        │── build-a-currency-converter
 │        └── build-a-tic-tac-toe-game
@@ -260,6 +263,7 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 - [Build an Event RSVP](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/react-state-hooks-and-routing/build-an-event-rsvp/index.html)
 - [Build a Currency Converter](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/certification-labs/build-a-currency-converter/index.html)
 - [Build a Tic Tac Toe Game](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/certification-labs/build-a-tic-tac-toe-game/index.html)
+- [Build a Music Shopping Cart Page](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/css-libraries-and-frameworks/build-a-music-shopping-cart-page/index.html)
 
 ---
 
