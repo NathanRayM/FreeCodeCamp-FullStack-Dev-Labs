@@ -144,7 +144,8 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   │
 │   └── certification-labs/
 │        │── build-a-currency-converter
-│        └── build-a-tic-tac-toe-game
+│        │── build-a-tic-tac-toe-game
+│        └── design-a-photography-exhibit
 │
 └── README.md         # This file
 ```
@@ -264,6 +265,7 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 - [Build a Currency Converter](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/certification-labs/build-a-currency-converter/index.html)
 - [Build a Tic Tac Toe Game](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/certification-labs/build-a-tic-tac-toe-game/index.html)
 - [Build a Music Shopping Cart Page](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/css-libraries-and-frameworks/build-a-music-shopping-cart-page/index.html)
+- [Design a Photography Exhibit](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/certification-labs/design-a-photography-exhibit/index.html)
 
 ---
 
