@@ -142,6 +142,9 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │   ├── css-libraries-and-frameworks
 │   │    └── build-a-music-shopping-cart-page
 │   │
+│   ├── typescript-fundamentals
+│   │    └── build-a-motorcycle-shop
+│   │
 │   └── certification-labs/
 │        │── build-a-currency-converter
 │        │── build-a-tic-tac-toe-game
@@ -266,6 +269,7 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 - [Build a Tic Tac Toe Game](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/certification-labs/build-a-tic-tac-toe-game/index.html)
 - [Build a Music Shopping Cart Page](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/css-libraries-and-frameworks/build-a-music-shopping-cart-page/index.html)
 - [Design a Photography Exhibit](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/certification-labs/design-a-photography-exhibit/index.html)
+- [Build a Motorcycle Shop](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/typescript-fundamentals/build-a-motorcycle-shop/index.html)
 
 ---
 
