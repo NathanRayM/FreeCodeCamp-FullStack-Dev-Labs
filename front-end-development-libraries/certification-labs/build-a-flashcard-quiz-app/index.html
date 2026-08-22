@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Build a Flashcard Quiz App</title>
+  </head>
+  <body>
+    <main class="app-container">
+      <div class="flashcard-panel">
+        <div id="flashcard-body">
+          <h1>Flash Card Quiz App</h1>
+          <div class="flashcard-container">
+            <div id="flashcard" class="flashcard">
+              <div class="card-inner" id="current-card">
+                <div class="card-front">What is the capital of France?</div>
+                <div class="card-back">Paris</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="controls-panel">
+        <h2>Manage Cards</h2>
+        <div class="card-actions">
+          <button id="delete-btn" class="delete-btn">Delete</button>
+        </div>
+        <hr />
+        <h3>All Cards</h3>
+        <div id="card-list">
+          <button class="selected">What is the capital ...</button>
+        </div>
+        <hr />
+        <h3>Add New Card</h3>
+        <form id="entry-form" class="entry-form">
+          <label for="front-text">Front:</label>
+          <textarea id="front-text"></textarea>
+          <label for="back-text">Back:</label>
+          <textarea id="back-text"></textarea>
+          <p id="entry-error" class="error"></p>
+          <div class="button-group">
+            <button type="submit" id="submit-btn">Save new flash card</button>
+          </div>
+        </form>
+      </div>
+    </main>
+    <script src="./dist/index.js"></script>
+  </body>
+</html>
