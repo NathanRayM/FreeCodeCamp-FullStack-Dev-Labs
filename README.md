@@ -260,7 +260,7 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 
 ---
 
-## ⚛️ Live Demos (React / Front End Development Libraries Labs)
+## ⚛️ Live Demos (React / TypeScript/ Front End Development Libraries Labs)
 
 - [Build a Reusable Footer](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/react-fundamentals/build-a-reusable-footer/index.html)
 - [Build a Mood Board](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/react-fundamentals/build-a-mood-board/index.html)
