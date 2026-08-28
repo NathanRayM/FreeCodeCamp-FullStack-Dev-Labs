@@ -150,7 +150,8 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │        │── build-a-currency-converter
 │        │── build-a-tic-tac-toe-game
 │        │── design-a-photography-exhibit
-│        └── build-a-flashcard-quiz-app
+│        │── build-a-flashcard-quiz-app
+│        └── build-a-digital-pet-game
 │
 └── README.md         # This file
 ```
@@ -260,7 +261,7 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 
 ---
 
-## ⚛️ Live Demos (React / TypeScript/ Front End Development Libraries Labs)
+## ⚛️ Live Demos (Front End Development Libraries Labs / React / TypeScript / Tailwind)
 
 - [Build a Reusable Footer](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/react-fundamentals/build-a-reusable-footer/index.html)
 - [Build a Mood Board](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/react-fundamentals/build-a-mood-board/index.html)
@@ -274,6 +275,7 @@ These labs include HTML, CSS, and JavaScript and can be viewed directly in the b
 - [Build a Motorcycle Shop](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/typescript-fundamentals/build-a-motorcycle-shop/index.html)
 - [Build a Product Showcase](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/typescript-fundamentals/build-a-product-showcase/index.html)
 - [Build a Flashcard Quiz App](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/certification-labs/build-a-flashcard-quiz-app/index.html)
+- [Build a Digital Pet Game](https://nathanraym.github.io/FreeCodeCamp-FullStack-Dev-Labs/front-end-development-libraries/certification-labs/build-a-digital-pet-game/index.html)
 
 ---
 
