@@ -153,6 +153,9 @@ FreeCodeCamp-FullStack-Dev-Labs/
 │        │── build-a-flashcard-quiz-app
 │        └── build-a-digital-pet-game
 │
+├── relatiional-databases/
+│   └── build-a-celestial-bodies-database
+│
 └── README.md         # This file
 ```
 
